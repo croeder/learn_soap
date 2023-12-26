@@ -1,2 +1,3 @@
 # learn_soap
-dinking around with SOAP examples
+https://docs.oracle.com/javaee/7/tutorial/jaxws.htm#BNAYL
+
